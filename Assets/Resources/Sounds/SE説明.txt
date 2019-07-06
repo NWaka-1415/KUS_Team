@@ -1,0 +1,6 @@
+miss、miss_neta：HPが減った時
+itemget：サクランボ取得時
+jump：ジャンプ時
+gameover_○○：HPが0の時
+through：土管通過時
+warning：ボーナスステージ突入直後の警告
